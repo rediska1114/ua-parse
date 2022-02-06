@@ -1,4 +1,4 @@
-# ua-parse
+# ua-parse [![PyPI version](https://badge.fury.io/py/ua-parse.svg)](https://badge.fury.io/py/ua-parse)
 
 User-agent parsing library inspired by the https://faisalman.github.io/ua-parser-js/ project.
 
