@@ -14,9 +14,9 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='ua-parse',
-    packages=['ua-parse'],
+    packages=['ua_parse'],
     include_package_data=True,
-    version='1.0.0',
+    version='1.0.1',
     description='Library for user agent parsing',
     long_description=long_description,
     long_description_content_type="text/markdown",
